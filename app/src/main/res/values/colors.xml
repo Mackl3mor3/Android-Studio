@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF5252</color>
+    
+    <color name="editText_white">@android:color/primary_text_dark</color>
+    <color name="editText_Black">@android:color/white</color>
+
+    <color name="editText_colorControlActivate">@android:color/holo_red_light</color>
+    <color name="background_cardview">#33000000</color>
+    <color name="textColor_white">#FFFFFF</color>
+
+
+</resources>

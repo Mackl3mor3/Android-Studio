@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">infogram</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="bottom_text">LOGIN</string>
+    <string name="no_tienes_cuenta..">"No tienes cuenta?... "</string>
+    <string name="crea_una_aqui">Crea una aqui</string>
+    <string name="Correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="Usurio">Usuario</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Confirme_contrasena">confirme contrasena</string>
+    <string name="bottom_text_Create_account">UNETE</string>
+    <string name="title_crear_cuenta">Crear cuenta</string>
+    <string name="gwen_stacy">Gwen Stacy</string>
+    <string name="es_mi_crush">Es mi crush</string>
+    <string name="Dias">" Conectada hace 5 dias"</string>
+    <string name="Me_gusta">1000 me gusta</string>
+    <string name="buscar">Buscar</string>
+    <string name="home_item">Home</string>
+    <string name="perfil_item">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+
+</resources>
